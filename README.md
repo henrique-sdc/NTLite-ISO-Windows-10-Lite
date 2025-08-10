@@ -19,7 +19,7 @@ Para uma referência completa e exaustiva, que cobre a função de **absolutamen
 A imagem ISO finalizada, resultado de todas as modificações descritas abaixo, está disponível para download no seguinte link:
 
 > **Link para Download:**
-> [ISO-Windows-10-22H2-PT-BR-Lite](https://drive.google.com/drive/u/3/home)
+> [ISO-Windows-10-22H2-PT-BR-Lite](https://drive.google.com/drive/folders/1nhJ59p_-GoKv2LkxFX0lCGs30B7hkZ8t?usp=sharing)
 
 Para instalar este sistema operacional, o processo é simples: utilize a ferramenta gratuita **Rufus** para gravar o arquivo ISO em um pendrive, tornando-o inicializável (bootável). Após isso, basta iniciar o computador pelo pendrive para começar a instalação.
 
@@ -165,7 +165,7 @@ Para instalar este sistema operacional, o processo é simples: utilize a ferrame
 
 ---
 
-## **Remover -> Componentes (106 Modificações)**
+## **Remover -> Componentes (105 Modificações)**
 
 Foram **REMOVIDOS** os seguintes componentes:
 
@@ -230,6 +230,7 @@ Foram **REMOVIDOS** os seguintes componentes:
     -   **O que faz:** Todos os componentes da Game Bar (gravação de clipes, painel social, etc.).
     -   **Reinstalável depois?:** Sim, pela Microsoft Store.
     -   **Recomendação:** **REMOVER.**
+    -   **IMPORTANTE** voltei nessa alteração e mantive ele.
 
 ---
 
@@ -398,8 +399,6 @@ Foram **REMOVIDOS** os seguintes componentes:
     -   **Reinstalável depois?:** Não.
     -   **Recomendação:** **REMOVER AMBOS.**
 
-*Observação: O componente "Visualizador de Fotos" foi mantido por ser uma opção leve para abrir imagens.*
-
 ---
 
 ### **Rede**
@@ -500,7 +499,7 @@ Foram **REMOVIDOS** os seguintes componentes:
 
 ---
 
-## **Configurar -> Recursos (12 Modificações)**
+## **Configurar -> Recursos (13 Modificações)**
 
 Os seguintes recursos foram **DESATIVADOS**:
 
@@ -550,6 +549,10 @@ Os seguintes recursos foram **DESATIVADOS**:
 
 12. **Windows PowerShell 2.0**
     -   **O que faz:** Versão antiga e legada do PowerShell.
+    -   **Recomendação:** **DESATIVAR.**
+
+12. **Remote Desktop Connection**
+    -   **O que faz:** O aplicativo para se conectar a outros computadores remotamente.
     -   **Recomendação:** **DESATIVAR.**
 
 > **Recursos que podem ser ativados posteriormente pelo usuário:**
