@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Preset xmlns="urn:schemas-nliteos-com:pn.v1">
-	<Date>08/09/2025 23:16:14</Date>
+	<Date>08/09/2025 23:54:25</Date>
 	<AppInfo>
 		<Version>2025.8.10552</Version>
 		<Licensed>No</Licensed>
@@ -96,7 +96,6 @@
 		<c>microsoft.windowscommunicationsapps 'Mail and Calendar'</c>
 		<c>microsoft.windowsfeedbackhub 'Feedback Hub'</c>
 		<c>microsoft.windowsmaps 'Windows Maps'</c>
-		<c>microsoft.xboxgamecallableui 'Xbox Game UI'</c>
 		<c>microsoft.xboxgameoverlay 'Xbox Game Bar Plugin'</c>
 		<c>microsoft.xboxgamingoverlay 'Xbox Game Bar'</c>
 		<c>microsoft.xboxspeechtotextoverlay 'Xbox Game Speech Window'</c>
@@ -184,6 +183,7 @@
 		<Feature name="Language.Speech~~~pt-br~0.0.1.0">false</Feature>
 		<Feature name="Language.TextToSpeech~~~pt-br~0.0.1.0">false</Feature>
 		<Feature name="Print.Management.Console~~~~0.0.1.0">false</Feature>
+		<Feature name="Microsoft-RemoteDesktopConnection">false</Feature>
 		<Feature name="SmbDirect">false</Feature>
 		<Feature name="App.StepsRecorder~~~~0.0.1.0">false</Feature>
 		<Feature name="Print.Fax.Scan~~~~0.0.1.0">false</Feature>

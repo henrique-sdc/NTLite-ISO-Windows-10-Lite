@@ -1,0 +1,14 @@
+Adicionei Depois 
+
+DesRemovi:
+
+Remover -> Componentes (105 Modificações)
+1. Xbox Game UI
+O que faz: Todos os componentes da Game Bar (gravação de clipes, painel social, etc.).
+Reinstalável depois?: Sim, pela Microsoft Store.
+Recomendação: REMOVER. Você disse que não usa. Essa é uma das remoções mais comuns e seguras para liberar recursos, especialmente em jogos.
+
+Desmarquei:
+
+Configurar -> Recursos (13 Modificações)
+1. Remote Desktop Connection

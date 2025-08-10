@@ -1,0 +1,12 @@
+VOLTAR:
+
+Remover -> Componentes -> Apps do Sistema: Gerenciador de Entrega de Conteudo; Tela de Bloqueio padrão do Windows;
+Remover -> Componentes -> Comunicação: Grupo Doméstico; Redirecionador de Portas dos Serviços da Área de Trabalho Remota;
+
+Remover -> Componentes -> Multimidia: Visualizador de Fotos - 32 bits; 
+
+DEIXEI:
+
+Remover -> Componentes -> Apps do Sistema: Email e contas;
+
+Remover -> Componentes -> Apps: Mixed Reality Portal; Windows Alarms & Clock; Xbox;
