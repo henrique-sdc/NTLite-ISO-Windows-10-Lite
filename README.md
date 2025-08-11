@@ -19,7 +19,7 @@ Para uma referência completa e exaustiva, que cobre a função de **absolutamen
 A imagem ISO finalizada, resultado de todas as modificações descritas abaixo, está disponível para download no seguinte link:
 
 > **Link para Download:**
-> [ISO-Windows-10-22H2-PT-BR-Lite](https://drive.google.com/drive/folders/1nhJ59p_-GoKv2LkxFX0lCGs30B7hkZ8t?usp=sharing)
+> [ISO-Windows-10-22H2-PT-BR-Lite](https://drive.google.com/drive/folders/1WHEBGYEn9hQrZiiHtnrriu4StkJeS3OH?usp=sharing)
 
 Para instalar este sistema operacional, o processo é simples: utilize a ferramenta gratuita **Rufus** para gravar o arquivo ISO em um pendrive, tornando-o inicializável (bootável). Após isso, basta iniciar o computador pelo pendrive para começar a instalação.
 
