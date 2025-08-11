@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Preset xmlns="urn:schemas-nliteos-com:pn.v1">
-	<Date>08/10/2025 22:17:40</Date>
+	<Date>08/11/2025 02:58:49</Date>
 	<AppInfo>
 		<Version>2025.8.10552</Version>
 		<Licensed>No</Licensed>
@@ -9,7 +9,7 @@
 	</AppInfo>
 	<ImageInfo>
 		<Version mode="offline">Windows 10 Professional 22H2 x64 - 10.0.19045.3803 (pt-BR)</Version>
-		<GUID>{0193D1B8-FCBD-4ACF-9121-167A87330F5A}</GUID>
+		<GUID>{A67A8F91-7733-4FD1-AAFF-3C56A2CD2D9E}</GUID>
 	</ImageInfo>
 	<RemoveComponents AppRemovalMode="DISM">
 		<c>adamclient 'Active Directory Lightweight Directory Services (AD LDS)'</c>
@@ -197,16 +197,6 @@
 			<OptimizeAppX>false</OptimizeAppX>
 			<UpdateBootManager>false</UpdateBootManager>
 		</Options>
-		<File>C:\Program Files\NTLite\Cache\Updates\10.22H2.x64\windows10.0-kb5062691-x64_02ecb663f53e859b604efdb29c7b98232bfa025e.cab</File>
-		<File>C:\Program Files\NTLite\Cache\Updates\10.22H2.x64\windows10.0-kb5019180-x64_90a066b0e5fca50d9c75d990fdb89c0e12b987ac.msu</File>
-		<File>C:\Program Files\NTLite\Cache\Updates\10.22H2.x64\windows10.0-kb5062554-x64_b32d25f4c33036643e843e2079b9ce57fef91124.msu</File>
-		<File>C:\Program Files\NTLite\Cache\Updates\10.22H2.x64\windows10.0-kb5011048-x64.cab</File>
-		<File>C:\Program Files\NTLite\Cache\Updates\10.22H2.x64\windows10.0-kb5056578-x64-ndp481_069b71dfcf1b8110fc49eeb54b8bd6271ff9a030.msu</File>
-		<File>C:\Program Files\NTLite\Cache\Updates\10.22H2.x64\windows10.0-kb5062682-x64_c75730b6769533f9095651973482e541b99c366c.cab</File>
-		<File>C:\Program Files\NTLite\Cache\Updates\10.22H2.x64\Microsoft.UI.Xaml.2.8_8.2501.31001.0_x64.appx</File>
-		<File>C:\Program Files\NTLite\Cache\Updates\10.22H2.x64\Microsoft.VCLibs.140.00.UWPDesktop_14.0.33728.0_x64.appx</File>
-		<File>C:\Program Files\NTLite\Cache\Updates\10.22H2.x64\Microsoft.WSL_2.6.0.0_x64_ARM64.msixbundle</File>
-		<File>C:\Program Files\NTLite\Cache\Updates\10.22H2.x64\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle</File>
 	</Packages>
 	<Commands>
 		<PostUpdates>
@@ -415,7 +405,6 @@
 			<Task>imageFormatEsd</Task>
 			<Task>updates_Winre.wim_01__64</Task>
 			<Task>msix_Winre.wim_01__64</Task>
-			<Task>imageOptionsCreateIso</Task>
 		</ImageTasks>
 		<AutoIsoFile>C:\Users\Henrique S\Desktop\ISO-Windows-10-22H2-PT-BR-Lite-Final\ISO-Windows-10-22H2-PT-BR-Lite.iso</AutoIsoFile>
 		<AutoIsoLabel>ISO-Windows-10-22H2-PT-BR-Lite</AutoIsoLabel>
