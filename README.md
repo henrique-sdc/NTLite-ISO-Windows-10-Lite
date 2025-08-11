@@ -165,7 +165,7 @@ Para instalar este sistema operacional, o processo é simples: utilize a ferrame
 
 ---
 
-## **Remover -> Componentes (105 Modificações)**
+## **Remover -> Componentes (104 Modificações)**
 
 Foram **REMOVIDOS** os seguintes componentes:
 
@@ -365,10 +365,10 @@ Foram **REMOVIDOS** os seguintes componentes:
     -   **Reinstalável depois?:** Sim, através do painel "Ativar ou desativar recursos do Windows".
     -   **Recomendação:** **REMOVER.**
 
-44. **Redirecionador de Portas dos Serviços da Área de Trabalho Remota**
+44. **Redirecionador de Portas dos Serviços da Área de Trabalho Remota** (RDP)
     -   **O que faz:** Componente usado em cenários complexos de Área de Trabalho Remota (VDI).
     -   **Reinstalável depois?:** Não, a remoção é permanente.
-    -   **Recomendação:** **REMOVER.**
+    -   REATIVEI - Fullscreen Sandbox
 
 ---
 
